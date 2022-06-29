@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SingleGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/SingleGame</output-path>
+    <root id="archive" name="MauMau.jar">
+      <element id="module-output" name="MauMau" />
+    </root>
+  </artifact>
+</component>
